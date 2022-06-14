@@ -1,5 +1,5 @@
 # ***ALIAKSEI SHCHASNY***
-### e-mail: alshchasny@gmail.com
+### Discord: @alfelix#4509
 ***
 ### **Resume Summary**
 Quickly navigate in a changing environment. Responsible for the work performed. Constantly looking for new knowledge. I am currently learning Java and JavaScript on my own.
@@ -10,15 +10,10 @@ Quickly navigate in a changing environment. Responsible for the work performed. 
 - information security administrator;
 
 2.  Miory Steel
-- automation engineer.
+- engineer.
 ***
 ### **Education**
 Higher education. Vitebsk State Technological University with a degree in automation engineer
 ***
 ### **English level**
 A2
-
-
-
-
-
